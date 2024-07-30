@@ -1,0 +1,243 @@
+Region 1
+-----------------------
+Salesman 1 Rs. 102700/-
+Salesman 2 Rs. 122700/-
+Salesman 3 Rs. 164500/-
+Salesman 4 Rs. 47500/-
+Salesman 5 Rs. 188000/-
+Salesman 6 Rs. 232400/-
+-----------------------
+Product wise sale
+-----------------------
+Salesman 1
+-----------
+Product 4 : 34
+Product 5 : 75
+Product 6 : 86
+-----------------------
+Salesman 2
+-----------
+Product 1 : 79
+Product 4 : 61
+Product 5 : 88
+Product 8 : 58
+-----------------------
+Salesman 3
+-----------
+Product 1 : 55
+Product 2 : 136
+Product 6 : 177
+Product 8 : 32
+-----------------------
+Salesman 4
+-----------
+Product 3 : 45
+Product 4 : 85
+-----------------------
+Salesman 5
+-----------
+Product 1 : 4
+Product 2 : 101
+Product 3 : 147
+Product 4 : 55
+Product 6 : 16
+Product 7 : 131
+-----------------------
+Salesman 6
+-----------
+Product 1 : 114
+Product 2 : 5
+Product 3 : 92
+Product 6 : 28
+Product 7 : 148
+Product 8 : 90
+-----------------------
+Total sale at Region 1 Rs. 857800/-
+--------------------------------------------------------------------------------------------------------
+Region 2
+-----------------------
+Salesman 1 Rs. 201700/-
+Salesman 2 Rs. 310100/-
+Salesman 3 Rs. 262600/-
+Salesman 4 Rs. 210200/-
+Salesman 5 Rs. 226300/-
+Salesman 6 Rs. 380700/-
+-----------------------
+Product wise sale
+-----------------------
+Salesman 1
+-----------
+Product 1 : 84
+Product 3 : 135
+Product 4 : 67
+Product 6 : 14
+Product 7 : 168
+-----------------------
+Salesman 2
+-----------
+Product 1 : 3
+Product 2 : 38
+Product 3 : 80
+Product 4 : 60
+Product 5 : 62
+Product 6 : 67
+Product 7 : 98
+Product 8 : 143
+-----------------------
+Salesman 3
+-----------
+Product 4 : 71
+Product 5 : 180
+Product 7 : 206
+-----------------------
+Salesman 4
+-----------
+Product 2 : 43
+Product 4 : 163
+Product 5 : 11
+Product 7 : 123
+Product 8 : 56
+-----------------------
+Salesman 5
+-----------
+Product 1 : 44
+Product 2 : 66
+Product 3 : 68
+Product 4 : 74
+Product 6 : 1
+Product 7 : 11
+Product 8 : 188
+-----------------------
+Salesman 6
+-----------
+Product 1 : 89
+Product 2 : 32
+Product 4 : 74
+Product 5 : 51
+Product 6 : 59
+Product 7 : 115
+Product 8 : 243
+-----------------------
+Total sale at Region 2 Rs. 1591600/-
+--------------------------------------------------------------------------------------------------------
+Region 3
+-----------------------
+Salesman 1 Rs. 397000/-
+Salesman 2 Rs. 241100/-
+Salesman 3 Rs. 176500/-
+Salesman 4 Rs. 328000/-
+Salesman 5 Rs. 226700/-
+Salesman 6 Rs. 98000/-
+-----------------------
+Product wise sale
+-----------------------
+Salesman 1
+-----------
+Product 2 : 58
+Product 5 : 291
+Product 6 : 227
+Product 7 : 3
+Product 8 : 127
+-----------------------
+Salesman 2
+-----------
+Product 1 : 74
+Product 3 : 81
+Product 4 : 251
+Product 5 : 106
+Product 8 : 70
+-----------------------
+Salesman 3
+-----------
+Product 2 : 23
+Product 4 : 8
+Product 5 : 40
+Product 6 : 200
+Product 7 : 41
+-----------------------
+Salesman 4
+-----------
+Product 1 : 125
+Product 2 : 152
+Product 4 : 150
+Product 5 : 103
+Product 7 : 136
+Product 8 : 98
+-----------------------
+Salesman 5
+-----------
+Product 2 : 99
+Product 3 : 25
+Product 4 : 69
+Product 6 : 161
+Product 8 : 94
+-----------------------
+Salesman 6
+-----------
+Product 1 : 20
+Product 2 : 76
+Product 3 : 40
+Product 4 : 172
+-----------------------
+Total sale at Region 3 Rs. 1467300/-
+--------------------------------------------------------------------------------------------------------
+Region 4
+-----------------------
+Salesman 1 Rs. 170700/-
+Salesman 2 Rs. 215400/-
+Salesman 3 Rs. 107400/-
+Salesman 4 Rs. 158300/-
+Salesman 5 Rs. 119500/-
+Salesman 6 Rs. 342700/-
+-----------------------
+Product wise sale
+-----------------------
+Salesman 1
+-----------
+Product 1 : 46
+Product 2 : 185
+Product 6 : 56
+Product 7 : 101
+Product 8 : 31
+-----------------------
+Salesman 2
+-----------
+Product 1 : 4
+Product 2 : 96
+Product 3 : 11
+Product 4 : 22
+Product 5 : 1
+Product 6 : 192
+Product 8 : 85
+-----------------------
+Salesman 3
+-----------
+Product 6 : 39
+Product 8 : 105
+-----------------------
+Salesman 4
+-----------
+Product 2 : 14
+Product 3 : 59
+Product 4 : 146
+Product 6 : 95
+Product 7 : 32
+-----------------------
+Salesman 5
+-----------
+Product 1 : 108
+Product 2 : 94
+Product 3 : 80
+Product 4 : 49
+Product 6 : 13
+Product 7 : 55
+-----------------------
+Salesman 6
+-----------
+Product 5 : 28
+Product 6 : 170
+Product 7 : 141
+Product 8 : 160
+-----------------------
+Total sale at Region 4 Rs. 1114000/-
+--------------------------------------------------------------------------------------------------------

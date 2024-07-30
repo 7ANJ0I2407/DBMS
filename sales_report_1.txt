@@ -1,0 +1,108 @@
+Region 1
+Salesman 1 Rs. 2410.00/-
+Salesman 2 Rs. 14060.00/-
+Salesman 3 Rs. 900.00/-
+Salesman 4 Rs. 3960.00/-
+Salesman 5 Rs. 2520.00/-
+Salesman 6 Rs. 0.00/-
+Salesman 1
+Product 5 : 1
+Product 6 : 1
+Product 7 : 1
+Salesman 2
+Product 4 : 1
+Product 5 : 2
+Product 6 : 1
+Product 8 : 2
+Salesman 3
+Product 1 : 1
+Salesman 4
+Product 1 : 1
+Salesman 5
+Product 1 : 1
+Salesman 6
+Total sale at Region 1 Rs. 23850.00/-
+
+------------------------------------------------------------------------------------------------------------------
+Region 2
+Salesman 1 Rs. 6170.00/-
+Salesman 2 Rs. 1590.00/-
+Salesman 3 Rs. 1090.00/-
+Salesman 4 Rs. 5220.00/-
+Salesman 5 Rs. 11820.00/-
+Salesman 6 Rs. 2900.00/-
+Salesman 1
+Product 3 : 1
+Product 7 : 1
+Product 8 : 1
+Salesman 2
+Product 3 : 1
+Product 7 : 1
+Salesman 3
+Product 4 : 1
+Product 7 : 1
+Salesman 4
+Product 3 : 2
+Product 6 : 1
+Salesman 5
+Product 1 : 1
+Product 2 : 1
+Salesman 6
+Product 5 : 1
+Total sale at Region 2 Rs. 28790.00/-
+
+------------------------------------------------------------------------------------------------------------------
+Region 3
+Salesman 1 Rs. 2050.00/-
+Salesman 2 Rs. 3410.00/-
+Salesman 3 Rs. 1120.00/-
+Salesman 4 Rs. 2940.00/-
+Salesman 5 Rs. 3270.00/-
+Salesman 6 Rs. 5060.00/-
+Salesman 1
+Product 5 : 1
+Salesman 2
+Product 7 : 1
+Product 8 : 1
+Salesman 3
+Product 6 : 1
+Salesman 4
+Product 3 : 1
+Product 4 : 1
+Salesman 5
+Product 3 : 1
+Product 5 : 1
+Salesman 6
+Product 1 : 1
+Product 2 : 1
+Total sale at Region 3 Rs. 17850.00/-
+
+------------------------------------------------------------------------------------------------------------------
+Region 4
+Salesman 1 Rs. 12150.00/-
+Salesman 2 Rs. 130.00/-
+Salesman 3 Rs. 7720.00/-
+Salesman 4 Rs. 2920.00/-
+Salesman 5 Rs. 3940.00/-
+Salesman 6 Rs. 7680.00/-
+Salesman 1
+Product 1 : 1
+Product 2 : 1
+Product 3 : 1
+Product 4 : 1
+Salesman 2
+Product 7 : 2
+Salesman 3
+Product 1 : 2
+Product 6 : 1
+Salesman 4
+Product 6 : 2
+Salesman 5
+Product 2 : 1
+Product 3 : 1
+Salesman 6
+Product 2 : 1
+Product 6 : 1
+Total sale at Region 4 Rs. 34540.00/-
+
+------------------------------------------------------------------------------------------------------------------
